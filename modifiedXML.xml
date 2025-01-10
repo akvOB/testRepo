@@ -1,374 +1,505 @@
 <?xml version='1.0' encoding='utf-8'?>
 <rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
-<channel>
-<title>OneRoof</title>
-<link>https://www.oneroof.co.nz</link>
-<description>Featured Properties</description>
-<item>
-<title>1B Pleasant Road, Glen Eden, Waitakere City</title>
-<link>https://www.oneroof.co.nz/property/auckland/glen-eden/1b-pleasant-road/lPjfB</link>
-<description>Modern Living in Glen Eden!</description>
-<media:content url="https://s.oneroof.co.nz/image/a2/77/a2776ccd87855065a5708904078f5c8d.jpg?x-oss-process=image/quality,q_80/resize,w_500" type="image/jpeg"/>
-</item>
-<item>
-<title>241a Ararimu Valley Road, Waimauku, Rodney</title>
-<link>https://www.oneroof.co.nz/property/auckland/waimauku/241a-ararimu-valley-road/iqMbJ</link>
-<description>Eutopia has an address!</description>
-<media:content url="https://s.oneroof.co.nz/image/70/54/7054efd82e17cae27d47e40c150321b0.jpg?x-oss-process=image/quality,q_80/resize,w_500" type="image/jpeg"/>
-</item>
-<item>
-<title>11 Waru Nui Court, Orewa, Rodney</title>
-<link>https://www.oneroof.co.nz/property/auckland/orewa/11-waru-nui-court/Q6vhA</link>
-<description>Your Slice of Coastal Paradise Opportunity</description>
-<media:content url="https://s.oneroof.co.nz/image/32/a5/32a5eeed73782cd6b1db1d5b3ad14b0f.jpg?x-oss-process=image/quality,q_80/resize,w_500" type="image/jpeg"/>
-</item>
-<item>
-<title>108B Pulham Road, Warkworth, Rodney</title>
-<link>https://www.oneroof.co.nz/property/auckland/warkworth/108b-pulham-road/fBjHg</link>
-<description>Heritage Meets Modern Living</description>
-<media:content url="https://s.oneroof.co.nz/image/4a/2f/4a2fd15c1104a90110d1b3e9708bc4ac.jpg?x-oss-process=image/quality,q_80/resize,w_500" type="image/jpeg"/>
-</item>
-<item>
-<title>1/10 Catkin Crescent, Papatoetoe, Manukau City</title>
-<link>https://www.oneroof.co.nz/property/auckland/papatoetoe/1-10-catkin-crescent/JMMj4</link>
-<description>First Home Buying in Papatoetoe!</description>
-<media:content url="https://s.oneroof.co.nz/image/4e/d6/4ed66c7af13f80113407be914f4c7b90.jpg?x-oss-process=image/quality,q_80/resize,w_500" type="image/jpeg"/>
-</item>
-<item>
-<title>3/16 Helms Place, Manurewa, Manukau City</title>
-<link>https://www.oneroof.co.nz/property/auckland/manurewa/3-16-helms-place/qExjV</link>
-<description>At Home on Helms</description>
-<media:content url="https://s.oneroof.co.nz/image/f0/b9/f0b9096766737df8abe5aef38f8e9eaf.jpg?x-oss-process=image/quality,q_80/resize,w_500" type="image/jpeg"/>
-</item>
-<item>
-<title>10B Penton Road, Stanmore Bay, Rodney</title>
-<link>https://www.oneroof.co.nz/property/auckland/stanmore-bay/address-withheld/NhlHP</link>
-<description>Modern Coastal Living Near the Beach</description>
-<media:content url="https://s.oneroof.co.nz/image/7e/15/7e15b9565bfa42d8b598d857ec4541e4.jpg?x-oss-process=image/quality,q_80/resize,w_500" type="image/jpeg"/>
-</item>
-<item>
-<title>2/9 Richards Avenue, Forrest Hill, North Shore City</title>
-<link>https://www.oneroof.co.nz/property/auckland/forrest-hill/2-9-richards-avenue/f3IUT</link>
-<description>Downsizers Delight.</description>
-<media:content url="https://s.oneroof.co.nz/image/70/83/708346ac0497d098dc95b06185cfe4f7.jpg?x-oss-process=image/quality,q_80/resize,w_500" type="image/jpeg"/>
-</item>
-<item>
-<title>L201/23 Pennant Street (Elementum Apartments), Long Bay, North Shore City</title>
-<link>https://www.oneroof.co.nz/property/auckland/long-bay/unit-l201-23-pennant-street-elementum-apartments/yWj46</link>
-<description>Live Your Beachside Lifestyle at Long Bay</description>
-<media:content url="https://s.oneroof.co.nz/image/be/02/be029201f01a15aad8c47f130bca847a.jpg?x-oss-process=image/quality,q_80/resize,w_500" type="image/jpeg"/>
-</item>
-<item>
-<title>5 Tudward Glade, Hillcrest, North Shore City</title>
-<link>https://www.oneroof.co.nz/property/auckland/hillcrest/5-tudward-glade/SYHMi</link>
-<description>"Treasured Gem in sought after Hillcrest"</description>
-<media:content url="https://s.oneroof.co.nz/image/62/dc/62dc075000a9d913f8ead8de484e0f78.jpg?x-oss-process=image/quality,q_80/resize,w_500" type="image/jpeg"/>
-</item>
-<item>
-<title>106 Green Hollows Road, Puhoi, Rodney</title>
-<link>https://www.oneroof.co.nz/property/auckland/puhoi/106-green-hollows-road/GQ2P7</link>
-<description>Paradise Found</description>
-<media:content url="https://s.oneroof.co.nz/image/f6/d2/f6d2e953733be3782a8f5185b6a60d9d.jpg?x-oss-process=image/quality,q_80/resize,w_500" type="image/jpeg"/>
-</item>
-<item>
-<title>20 Matheson Road, Wellsford, Rodney</title>
-<link>https://www.oneroof.co.nz/property/auckland/wellsford/20-matheson-road/tm6Rn</link>
-<description>Best of Both Worlds - Home and Income Potential</description>
-<media:content url="https://s.oneroof.co.nz/image/d0/ca/d0ca24041eefdee1b410bcf75628499e.jpg?x-oss-process=image/quality,q_80/resize,w_500" type="image/jpeg"/>
-</item>
-<item>
-<title>8 Rivendell Place, Warkworth, Rodney</title>
-<link>https://www.oneroof.co.nz/property/auckland/warkworth/8-rivendell-place/8zI3l</link>
-<description>Sunny, Private & In The Heart Of Town</description>
-<media:content url="https://s.oneroof.co.nz/image/eb/b9/ebb9d47ae879dc34e02d974c304392cb.jpg?x-oss-process=image/quality,q_80/resize,w_500" type="image/jpeg"/>
-</item>
-<item>
-<title>1 Tyburn Lane, Unsworth Heights, North Shore City</title>
-<link>https://www.oneroof.co.nz/property/auckland/unsworth-heights/1-tyburn-lane/ydO00</link>
-<description>Home is Here</description>
-<media:content url="https://s.oneroof.co.nz/image/47/82/47821241a6de8a8d47af377e2ff9dd99.jpg?x-oss-process=image/quality,q_80/resize,w_500" type="image/jpeg"/>
-</item>
-<item>
-<title>3 Coroglen Avenue, Birkenhead, North Shore City</title>
-<link>https://www.oneroof.co.nz/property/auckland/birkenhead/3-coroglen-avenue/NG1xN</link>
-<description>Architectural Resort Style Paradise</description>
-<media:content url="https://s.oneroof.co.nz/image/c9/6b/c96b6c393507bc05a3e40065815ba63c.jpg?x-oss-process=image/quality,q_80/resize,w_500" type="image/jpeg"/>
-</item>
-<item>
-<title>3 Coroglen Avenue, Birkenhead, North Shore City</title>
-<link>https://www.oneroof.co.nz/property/auckland/birkenhead/3-coroglen-avenue/V9SLV</link>
-<description>THE DEAL</description>
-<media:content url="https://s.oneroof.co.nz/image/98/9e/989efbcc8758b20000a02787d32c5e85.jpg?x-oss-process=image/quality,q_80/resize,w_500" type="image/jpeg"/>
-</item>
-<item>
-<title>1/3 Lush Avenue, Saint Johns, Auckland City</title>
-<link>https://www.oneroof.co.nz/property/auckland/saint-johns/1-3-lush-avenue/uqnU3</link>
-<description>Makes All the Difference - Loaded with Extras</description>
-<media:content url="https://s.oneroof.co.nz/image/c9/21/c921cb5db7d380a03a36278e47be611c.jpg?x-oss-process=image/quality,q_80/resize,w_500" type="image/jpeg"/>
-</item>
-<item>
-<title>73 Mead Street, Avondale, Auckland City</title>
-<link>https://www.oneroof.co.nz/property/auckland/avondale/73-mead-street/Eqs1Z</link>
-<description>A Home to Fall in Love With</description>
-<media:content url="https://s.oneroof.co.nz/image/1b/48/1b48b254cbd50d1716a2ece98d6bac24.jpg?x-oss-process=image/quality,q_80/resize,w_500" type="image/jpeg"/>
-</item>
-<item>
-<title>42 Old Mill Road, Grey Lynn, Auckland City</title>
-<link>https://www.oneroof.co.nz/property/auckland/grey-lynn/42-old-mill-road/QQecq</link>
-<description>Character, Modern Charm & Spectacular Outlook</description>
-<media:content url="https://s.oneroof.co.nz/image/65/7c/657cb570d88492604b17e5ef01f1d2d5.jpg?x-oss-process=image/quality,q_80/resize,w_500" type="image/jpeg"/>
-</item>
-<item>
-<title>20 Te Kowhai Place, Remuera, Auckland City</title>
-<link>https://www.oneroof.co.nz/property/auckland/remuera/20-te-kowhai-place/5Oqyv</link>
-<description>Sun, Sea Views and DGZ Position</description>
-<media:content url="https://s.oneroof.co.nz/image/c5/1d/c51d2c079074c9cec077ff539ab1a331.jpg?x-oss-process=image/quality,q_80/resize,w_500" type="image/jpeg"/>
-</item>
-<item>
-<title>22 Gaye Crescent, Ōtara, Manukau City</title>
-<link>https://www.oneroof.co.nz/property/auckland/otara/22-gaye-crescent/s0HUw</link>
-<description>Land, Location & Lifestyle</description>
-<media:content url="https://s.oneroof.co.nz/image/a6/14/a614125637cb70f22251ba9ec65a116b.jpg?x-oss-process=image/quality,q_80/resize,w_500" type="image/jpeg"/>
-</item>
-<item>
-<title>85 Vintage Lane, Waiheke Island, Waiheke Island</title>
-<link>https://www.oneroof.co.nz/property/auckland/waiheke-island/85-vintage-lane/w9iU0</link>
-<description>A world of your own</description>
-<media:content url="https://s.oneroof.co.nz/image/5a/36/5a3672cc8a02afd0ef8083aabad4763c.jpg?x-oss-process=image/quality,q_80/resize,w_500" type="image/jpeg"/>
-</item>
-<item>
-<title>48 Christian Road, Swanson, Waitakere City</title>
-<link>https://www.oneroof.co.nz/property/auckland/swanson/48-christian-road/9MTn4</link>
-<description>3 Quality Homes 225m2 Workshop on Idyllic 5.8acres</description>
-<media:content url="https://s.oneroof.co.nz/image/31/a3/31a326f042129cb6f3f3cbe6017e0eab.jpg?x-oss-process=image/quality,q_80/resize,w_500" type="image/jpeg"/>
-</item>
-<item>
-<title>23a Leicester Parade, Northpark, Manukau City</title>
-<link>https://www.oneroof.co.nz/property/auckland/northpark/23a-leicester-parade/2Ytx4</link>
-<description>Spacious Family Home in Northpark</description>
-<media:content url="https://s.oneroof.co.nz/image/8d/03/8d03502805d31cacdb95b5e28a6380b4.jpg?x-oss-process=image/quality,q_80/resize,w_500" type="image/jpeg"/>
-</item>
-<item>
-<title>14 Hill Crescent, Papakura, Papakura</title>
-<link>https://www.oneroof.co.nz/property/auckland/papakura/14-hill-crescent/UrQ4v</link>
-<description>Quintessential Kiwi Classic on 1067m2</description>
-<media:content url="https://s.oneroof.co.nz/image/5b/44/5b445481ce661b3fe739bf442cc19362.jpg?x-oss-process=image/quality,q_80/resize,w_500" type="image/jpeg"/>
-</item>
-<item>
-<title>25 Tyburnia Avenue, Mount Albert, Auckland City</title>
-<link>https://www.oneroof.co.nz/property/auckland/mount-albert/25-tyburnia-avenue/qUsHi</link>
-<description>Prime Development Opportunity in Mt Albert</description>
-<media:content url="https://s.oneroof.co.nz/image/3d/fd/3dfd6407c978cf85dc2b339ed5de8866.jpg?x-oss-process=image/quality,q_80/resize,w_500" type="image/jpeg"/>
-</item>
-<item>
-<title>25 Haig Avenue, Mount Roskill, Auckland City</title>
-<link>https://www.oneroof.co.nz/property/auckland/mount-roskill/25-haig-avenue/dWU1v</link>
-<description>The Perfect Package</description>
-<media:content url="https://s.oneroof.co.nz/image/5e/4e/5e4ef4613b9e944d03cdcf0de56e9636.jpg?x-oss-process=image/quality,q_80/resize,w_500" type="image/jpeg"/>
-</item>
-<item>
-<title>2584 & 0 River Road, Tuakau, Franklin</title>
-<link>https://www.oneroof.co.nz/property/auckland/tuakau/2584-0-river-road/3Ajwm</link>
-<description>But wait there's more</description>
-<media:content url="https://s.oneroof.co.nz/image/53/cb/53cb2a452276a3eef5fdf508032d6723.jpg?x-oss-process=image/quality,q_80/resize,w_500" type="image/jpeg"/>
-</item>
-<item>
-<title>11 Panorama Road, Mount Wellington, Auckland City</title>
-<link>https://www.oneroof.co.nz/property/auckland/mount-wellington/11-panorama-road/dTll6</link>
-<description>Central Modern Living</description>
-<media:content url="https://s.oneroof.co.nz/image/b7/d3/b7d3255863d3e24fdf68317a5c55f5ff.jpg?x-oss-process=image/quality,q_80/resize,w_500" type="image/jpeg"/>
-</item>
-<item>
-<title>1/252 Onewa Road, Northcote Point, North Shore City</title>
-<link>https://www.oneroof.co.nz/property/auckland/northcote-point/1-252-onewa-road/oClI5</link>
-<description>RENOVATED BUNGALOW WITH CITY VIEWS</description>
-<media:content url="https://s.oneroof.co.nz/image/d0/15/d0152cfaf94d7deb79a24aad53bde4c1.jpg?x-oss-process=image/quality,q_80/resize,w_500" type="image/jpeg"/>
-</item>
-<item>
-<title>7 Ballarat Street, Ellerslie, Auckland City</title>
-<link>https://www.oneroof.co.nz/property/auckland/ellerslie/7-ballarat-street/DiVya</link>
-<description>Your Secret Garden</description>
-<media:content url="https://s.oneroof.co.nz/image/bb/29/bb293f39fd5125fda05c65fa780cb947.jpg?x-oss-process=image/quality,q_80/resize,w_500" type="image/jpeg"/>
-</item>
-<item>
-<title>67 Moses Road, Kaukapakapa, Rodney</title>
-<link>https://www.oneroof.co.nz/property/auckland/kaukapakapa/67-moses-road/qrkOR</link>
-<description>Elevate Your Lifestyle</description>
-<media:content url="https://s.oneroof.co.nz/image/36/87/36873da545ddc091210ea942e7e6a3c7.jpg?x-oss-process=image/quality,q_80/resize,w_500" type="image/jpeg"/>
-</item>
-<item>
-<title>49 Hepburn Street, Freemans Bay, Auckland City</title>
-<link>https://www.oneroof.co.nz/property/auckland/freemans-bay/49-hepburn-street/UzoXF</link>
-<description>Urban Oasis with Timeless Charm</description>
-<media:content url="https://s.oneroof.co.nz/image/72/d9/72d9708c742f899a49f64e1e5ade0631.jpg?x-oss-process=image/quality,q_80/resize,w_500" type="image/jpeg"/>
-</item>
-<item>
-<title>48 O'Neill Street, Ponsonby, Auckland City</title>
-<link>https://www.oneroof.co.nz/property/auckland/ponsonby/48-oneill-street/zJegt</link>
-<description>Big Land For All Your Plans</description>
-<media:content url="https://s.oneroof.co.nz/image/21/01/2101445bda59093508558b17296b594d.jpg?x-oss-process=image/quality,q_80/resize,w_500" type="image/jpeg"/>
-</item>
-<item>
-<title>26 Baildon Road, Grey Lynn, Auckland City</title>
-<link>https://www.oneroof.co.nz/property/auckland/grey-lynn/26-baildon-road/h4Awa</link>
-<description>Family living at its finest</description>
-<media:content url="https://s.oneroof.co.nz/image/2a/48/2a483be4cec48c91cd7a1ac4e143a704.jpg?x-oss-process=image/quality,q_80/resize,w_500" type="image/jpeg"/>
-</item>
-<item>
-<title>1L/238 Karangahape Road, Auckland Central, Auckland City</title>
-<link>https://www.oneroof.co.nz/property/auckland/auckland-central/1l-238-karangahape-road/xS1Qj</link>
-<description>Redefining Inner-City Living</description>
-<media:content url="https://s.oneroof.co.nz/image/bd/42/bd4272dfdb0016dac305d6ad76ebe0a1.jpg?x-oss-process=image/quality,q_80/resize,w_500" type="image/jpeg"/>
-</item>
-<item>
-<title>16 Ribblesdale Road, Henderson, Waitakere City</title>
-<link>https://www.oneroof.co.nz/property/auckland/henderson/16-ribblesdale-road/Br0zZ</link>
-<description>A Retreat in the Heart of Henderson</description>
-<media:content url="https://s.oneroof.co.nz/image/61/7c/617cc6d894638ca21e0cbec479844684.jpg?x-oss-process=image/quality,q_80/resize,w_500" type="image/jpeg"/>
-</item>
-<item>
-<title>1/7A Seaside Avenue, Waterview, Auckland City</title>
-<link>https://www.oneroof.co.nz/property/auckland/waterview/1-7a-seaside-avenue/Tm38n</link>
-<description>Serenity on Seaside</description>
-<media:content url="https://s.oneroof.co.nz/image/b3/d8/b3d8990e9d0e2fa989a45b9c4d9103d4.jpg?x-oss-process=image/quality,q_80/resize,w_500" type="image/jpeg"/>
-</item>
-<item>
-<title>22 Admirals Court Drive, Greenhithe, North Shore City</title>
-<link>https://www.oneroof.co.nz/property/auckland/greenhithe/22-admirals-court-drive/U3rmr</link>
-<description>Your Ideal Family Home in a Serene Setting</description>
-<media:content url="https://s.oneroof.co.nz/image/88/6a/886a5620587cfb9686f358389a0d5f11.jpg?x-oss-process=image/quality,q_80/resize,w_500" type="image/jpeg"/>
-</item>
-<item>
-<title>117 Mokoia Road, Birkenhead, North Shore City</title>
-<link>https://www.oneroof.co.nz/property/auckland/birkenhead/117-mokoia-road/DKb9u</link>
-<description>Timeless Charm That Has It All</description>
-<media:content url="https://s.oneroof.co.nz/image/73/2c/732c55b238e1cf9f82973fa2f7f1518f.jpg?x-oss-process=image/quality,q_80/resize,w_500" type="image/jpeg"/>
-</item>
-<item>
-<title>63 Pacific Heights Road, Orewa, Rodney</title>
-<link>https://www.oneroof.co.nz/property/auckland/orewa/63-pacific-heights-road/jdFqQ</link>
-<description>The Kiwi Dream-Coastal Lifestyle with Views</description>
-<media:content url="https://s.oneroof.co.nz/image/c2/79/c27952882308f973925252d0216bf660.jpg?x-oss-process=image/quality,q_80/resize,w_500" type="image/jpeg"/>
-</item>
-<item>
-<title>1/9 Malte Brun Place, Papatoetoe, Manukau City</title>
-<link>https://www.oneroof.co.nz/property/auckland/papatoetoe/1-9-malte-brun-place/mnWvo</link>
-<description>#THEDAY - Perfect for First Timers or Investors!</description>
-<media:content url="https://s.oneroof.co.nz/image/1d/98/1d985e0a2412dcc508d94f5b64edc166.jpg?x-oss-process=image/quality,q_80/resize,w_500" type="image/jpeg"/>
-</item>
-<item>
-<title>2/9 Malte Brun Place, Papatoetoe, Manukau City</title>
-<link>https://www.oneroof.co.nz/property/auckland/papatoetoe/2-9-malte-brun-place/Yluos</link>
-<description>#THEDAY Perfect Home, Perfect Place</description>
-<media:content url="https://s.oneroof.co.nz/image/42/fa/42faffbe1fc962681beb5294ef325ab9.jpg?x-oss-process=image/quality,q_80/resize,w_500" type="image/jpeg"/>
-</item>
-<item>
-<title>10/5 Bourne Street, Mount Eden, Auckland City</title>
-<link>https://www.oneroof.co.nz/property/auckland/mount-eden/10-5-bourne-street/N7j2A</link>
-<description>Incredible Entry-Level - Views Galore!</description>
-<media:content url="https://s.oneroof.co.nz/image/8f/15/8f1581ebbc62b74e4ea70ab86766d365.jpg?x-oss-process=image/quality,q_80/resize,w_500" type="image/jpeg"/>
-</item>
-<item>
-<title>39 Cooper Street, Grey Lynn, Auckland City</title>
-<link>https://www.oneroof.co.nz/property/auckland/grey-lynn/39-cooper-street/vHUTg</link>
-<description>The Exquisite Cottage</description>
-<media:content url="https://s.oneroof.co.nz/image/f4/2d/f42d4c9fee8af18a139262d33e90da76.jpg?x-oss-process=image/quality,q_80/resize,w_500" type="image/jpeg"/>
-</item>
-<item>
-<title>1 Caughey Place, Mount Albert, Auckland City</title>
-<link>https://www.oneroof.co.nz/property/auckland/mount-albert/1-caughey-place/76XPC</link>
-<description>Absolute Sweetheart in Gladstone Zone!</description>
-<media:content url="https://s.oneroof.co.nz/image/b5/ca/b5ca0be59329d5bd64ee1e4e4dd624a7.jpg?x-oss-process=image/quality,q_80/resize,w_500" type="image/jpeg"/>
-</item>
-<item>
-<title>394 Sea View Road, Onetangi, Waiheke Island</title>
-<link>https://www.oneroof.co.nz/property/auckland/onetangi/394-sea-view-road/wATWE</link>
-<description>Onetangi magic</description>
-<media:content url="https://s.oneroof.co.nz/image/64/20/64205fa4e8883c2fbb649282411661c5.jpg?x-oss-process=image/quality,q_80/resize,w_500" type="image/jpeg"/>
-</item>
-<item>
-<title>63 Clarence Street, Ponsonby, Auckland City</title>
-<link>https://www.oneroof.co.nz/property/auckland/ponsonby/63-clarence-street/jtcgN</link>
-<description>Your Dream Canvas in Ponsonby</description>
-<media:content url="https://s.oneroof.co.nz/image/cc/58/cc587eb068f47dd3be416ae512f52ca0.jpg?x-oss-process=image/quality,q_80/resize,w_500" type="image/jpeg"/>
-</item>
-<item>
-<title>68 Clarence Street, Ponsonby, Auckland City</title>
-<link>https://www.oneroof.co.nz/property/auckland/ponsonby/68-clarence-street/IW32y</link>
-<description>Pure Ponsonby</description>
-<media:content url="https://s.oneroof.co.nz/image/cc/cf/cccf915f8cebf27371fa7939d4a9eacd.jpg?x-oss-process=image/quality,q_80/resize,w_500" type="image/jpeg"/>
-</item>
-<item>
-<title>2B/89-91 Hendon Avenue, Mount Albert, Auckland City</title>
-<link>https://www.oneroof.co.nz/property/auckland/mount-albert/2b-89-91-hendon-avenue/YIhGK</link>
-<description>Quality Not Quantity - Freehold Homes</description>
-<media:content url="https://s.oneroof.co.nz/image/a2/5c/a25c42c58aaf12c0898492167621f7a9.jpg?x-oss-process=image/quality,q_80/resize,w_500" type="image/jpeg"/>
-</item>
-<item>
-<title>71 Francis Street, Grey Lynn, Auckland City</title>
-<link>https://www.oneroof.co.nz/property/auckland/grey-lynn/71-francis-street/Dk6rN</link>
-<description>Expand your horizons on 703m2</description>
-<media:content url="https://s.oneroof.co.nz/image/d8/26/d826cbd7376c28a45959fb93e8123a2b.jpg?x-oss-process=image/quality,q_80/resize,w_500" type="image/jpeg"/>
-</item>
-<item>
-<title>12 Springfield Road, Morningside, Auckland City</title>
-<link>https://www.oneroof.co.nz/property/auckland/morningside/12-springfield-road/3BZsh</link>
-<description>Impressive at Every Turn</description>
-<media:content url="https://s.oneroof.co.nz/image/02/6b/026bfbbaf25255cc1895c651a3af09af.jpg?x-oss-process=image/quality,q_80/resize,w_500" type="image/jpeg"/>
-</item>
-<item>
-<title>6/47 Jervois Road, Ponsonby, Auckland City</title>
-<link>https://www.oneroof.co.nz/property/auckland/ponsonby/6-47-jervois-road/ZiHWG</link>
-<description>Views, Space, Location</description>
-<media:content url="https://s.oneroof.co.nz/image/9b/62/9b62396026aea44447f1b0e5cf6f9638.jpg?x-oss-process=image/quality,q_80/resize,w_500" type="image/jpeg"/>
-</item>
-<item>
-<title>1/65 Etherton Drive, Clendon Park, Manukau City</title>
-<link>https://www.oneroof.co.nz/property/auckland/clendon-park/1-65-etherton-drive/PQPSD</link>
-<description>Perfect Entry Level Buying!</description>
-<media:content url="https://s.oneroof.co.nz/image/a0/1e/a01e603528407d87eb4084f8028e5186.jpg?x-oss-process=image/quality,q_80/resize,w_500" type="image/jpeg"/>
-</item>
-<item>
-<title>4 Lloyd Avenue, Mount Albert, Auckland City</title>
-<link>https://www.oneroof.co.nz/property/auckland/mount-albert/4-lloyd-avenue/3ugf5</link>
-<description>Bungalow Bliss</description>
-<media:content url="https://s.oneroof.co.nz/image/97/70/977021dfbaf10f6828f26b1f904fc5c6.jpg?x-oss-process=image/quality,q_80/resize,w_500" type="image/jpeg"/>
-</item>
-<item>
-<title>80 Ivanhoe Road, Grey Lynn, Auckland City</title>
-<link>https://www.oneroof.co.nz/property/auckland/grey-lynn/80-ivanhoe-road/VImRp</link>
-<description>Sun-Drenched Grey Lynn Starter</description>
-<media:content url="https://s.oneroof.co.nz/image/13/04/1304288e58ffb386e30de61c6ff37f61.jpg?x-oss-process=image/quality,q_80/resize,w_500" type="image/jpeg"/>
-</item>
-<item>
-<title>5 Howden Lane, Howick, Manukau City</title>
-<link>https://www.oneroof.co.nz/property/auckland/howick/5-howden-lane/Wk41c</link>
-<description>Ideal Single Level Living on Freehold 205m2</description>
-<media:content url="https://s.oneroof.co.nz/image/43/ae/43ae834af630f6e8bc17b7bbe6c1ddf3.jpg?x-oss-process=image/quality,q_80/resize,w_500" type="image/jpeg"/>
-</item>
-<item>
-<title>8 Colenso Place, Mission Bay, Auckland City</title>
-<link>https://www.oneroof.co.nz/property/auckland/mission-bay/8-colenso-place/dH3KG</link>
-<description>Titirangi In Mission Bay On 997sqm</description>
-<media:content url="https://s.oneroof.co.nz/image/28/00/280067fab52103212d42cc4e90647a5c.jpg?x-oss-process=image/quality,q_80/resize,w_500" type="image/jpeg"/>
-</item>
-<item>
-<title>1/59 Richardson Road, Mount Albert, Auckland City</title>
-<link>https://www.oneroof.co.nz/property/auckland/mount-albert/1-59-richardson-road/zaghR</link>
-<description>Exceptional Quality, Outstanding Value</description>
-<media:content url="https://s.oneroof.co.nz/image/50/6d/506d82cde16ada19ec129c7d721cc960.jpg?x-oss-process=image/quality,q_80/resize,w_500" type="image/jpeg"/>
-</item>
-<item>
-<title>4/59 Richardson Road, Mount Albert, Auckland City</title>
-<link>https://www.oneroof.co.nz/property/auckland/mount-albert/4-59-richardson-road/W4NMx</link>
-<description>Exceptional Quality, Outstanding Value</description>
-<media:content url="https://s.oneroof.co.nz/image/63/43/63431c51d978faf7ddde1e40fa416cf5.jpg?x-oss-process=image/quality,q_80/resize,w_500" type="image/jpeg"/>
-</item>
-<item>
-<title>6/59 Richardson Road, Mount Albert, Auckland City</title>
-<link>https://www.oneroof.co.nz/property/auckland/mount-albert/6-59-richardson-road/iGlxE</link>
-<description>Exceptional Quality, Outstanding Value</description>
-<media:content url="https://s.oneroof.co.nz/image/31/a2/31a2e17ce284c8670eccda97ec0005c7.jpg?x-oss-process=image/quality,q_80/resize,w_500" type="image/jpeg"/>
-</item>
-</channel>
+    <channel>
+        <title>OneRoof</title>
+        <link>https://www.oneroof.co.nz</link>
+        <description>Featured Properties</description>
+        <item>
+            <title>1B Pleasant Road, Glen Eden, Waitakere City</title>
+            <link>https://www.oneroof.co.nz/property/auckland/glen-eden/1b-pleasant-road/lPjfB</link>
+            <description>Modern Living in Glen Eden!</description>
+            <media:content
+                url="https://s.oneroof.co.nz/image/a2/77/a2776ccd87855065a5708904078f5c8d.jpg?x-oss-process=image/quality,q_80/resize,w_500"
+                type="image/jpeg" />
+        </item>
+        <item>
+            <title>241a Ararimu Valley Road, Waimauku, Rodney</title>
+            <link>
+                https://www.oneroof.co.nz/property/auckland/waimauku/241a-ararimu-valley-road/iqMbJ</link>
+            <description>Eutopia has an address!</description>
+            <media:content
+                url="https://s.oneroof.co.nz/image/70/54/7054efd82e17cae27d47e40c150321b0.jpg?x-oss-process=image/quality,q_80/resize,w_500"
+                type="image/jpeg" />
+        </item>
+        <item>
+            <title>11 Waru Nui Court, Orewa, Rodney</title>
+            <link>https://www.oneroof.co.nz/property/auckland/orewa/11-waru-nui-court/Q6vhA</link>
+            <description>Your Slice of Coastal Paradise Opportunity</description>
+            <media:content
+                url="https://s.oneroof.co.nz/image/32/a5/32a5eeed73782cd6b1db1d5b3ad14b0f.jpg?x-oss-process=image/quality,q_80/resize,w_500"
+                type="image/jpeg" />
+        </item>
+        <item>
+            <title>108B Pulham Road, Warkworth, Rodney</title>
+            <link>https://www.oneroof.co.nz/property/auckland/warkworth/108b-pulham-road/fBjHg</link>
+            <description>Heritage Meets Modern Living</description>
+            <media:content
+                url="https://s.oneroof.co.nz/image/4a/2f/4a2fd15c1104a90110d1b3e9708bc4ac.jpg?x-oss-process=image/quality,q_80/resize,w_500"
+                type="image/jpeg" />
+        </item>
+        <item>
+            <title>1/10 Catkin Crescent, Papatoetoe, Manukau City</title>
+            <link>https://www.oneroof.co.nz/property/auckland/papatoetoe/1-10-catkin-crescent/JMMj4</link>
+            <description>First Home Buying in Papatoetoe!</description>
+            <media:content
+                url="https://s.oneroof.co.nz/image/4e/d6/4ed66c7af13f80113407be914f4c7b90.jpg?x-oss-process=image/quality,q_80/resize,w_500"
+                type="image/jpeg" />
+        </item>
+        <item>
+            <title>3/16 Helms Place, Manurewa, Manukau City</title>
+            <link>https://www.oneroof.co.nz/property/auckland/manurewa/3-16-helms-place/qExjV</link>
+            <description>At Home on Helms</description>
+            <media:content
+                url="https://s.oneroof.co.nz/image/f0/b9/f0b9096766737df8abe5aef38f8e9eaf.jpg?x-oss-process=image/quality,q_80/resize,w_500"
+                type="image/jpeg" />
+        </item>
+        <item>
+            <title>10B Penton Road, Stanmore Bay, Rodney</title>
+            <link>https://www.oneroof.co.nz/property/auckland/stanmore-bay/address-withheld/NhlHP</link>
+            <description>Modern Coastal Living Near the Beach</description>
+            <media:content
+                url="https://s.oneroof.co.nz/image/7e/15/7e15b9565bfa42d8b598d857ec4541e4.jpg?x-oss-process=image/quality,q_80/resize,w_500"
+                type="image/jpeg" />
+        </item>
+        <item>
+            <title>2/9 Richards Avenue, Forrest Hill, North Shore City</title>
+            <link>https://www.oneroof.co.nz/property/auckland/forrest-hill/2-9-richards-avenue/f3IUT</link>
+            <description>Downsizers Delight.</description>
+            <media:content
+                url="https://s.oneroof.co.nz/image/70/83/708346ac0497d098dc95b06185cfe4f7.jpg?x-oss-process=image/quality,q_80/resize,w_500"
+                type="image/jpeg" />
+        </item>
+        <item>
+            <title>L201/23 Pennant Street (Elementum Apartments), Long Bay, North Shore City</title>
+            <link>
+                https://www.oneroof.co.nz/property/auckland/long-bay/unit-l201-23-pennant-street-elementum-apartments/yWj46</link>
+            <description>Live Your Beachside Lifestyle at Long Bay</description>
+            <media:content
+                url="https://s.oneroof.co.nz/image/be/02/be029201f01a15aad8c47f130bca847a.jpg?x-oss-process=image/quality,q_80/resize,w_500"
+                type="image/jpeg" />
+        </item>
+        <item>
+            <title>5 Tudward Glade, Hillcrest, North Shore City</title>
+            <link>https://www.oneroof.co.nz/property/auckland/hillcrest/5-tudward-glade/SYHMi</link>
+            <description>"Treasured Gem in sought after Hillcrest"</description>
+            <media:content
+                url="https://s.oneroof.co.nz/image/62/dc/62dc075000a9d913f8ead8de484e0f78.jpg?x-oss-process=image/quality,q_80/resize,w_500"
+                type="image/jpeg" />
+        </item>
+        <item>
+            <title>106 Green Hollows Road, Puhoi, Rodney</title>
+            <link>https://www.oneroof.co.nz/property/auckland/puhoi/106-green-hollows-road/GQ2P7</link>
+            <description>Paradise Found</description>
+            <media:content
+                url="https://s.oneroof.co.nz/image/f6/d2/f6d2e953733be3782a8f5185b6a60d9d.jpg?x-oss-process=image/quality,q_80/resize,w_500"
+                type="image/jpeg" />
+        </item>
+        <item>
+            <title>20 Matheson Road, Wellsford, Rodney</title>
+            <link>https://www.oneroof.co.nz/property/auckland/wellsford/20-matheson-road/tm6Rn</link>
+            <description>Best of Both Worlds - Home and Income Potential</description>
+            <media:content
+                url="https://s.oneroof.co.nz/image/d0/ca/d0ca24041eefdee1b410bcf75628499e.jpg?x-oss-process=image/quality,q_80/resize,w_500"
+                type="image/jpeg" />
+        </item>
+        <item>
+            <title>8 Rivendell Place, Warkworth, Rodney</title>
+            <link>https://www.oneroof.co.nz/property/auckland/warkworth/8-rivendell-place/8zI3l</link>
+            <description>Sunny, Private & In The Heart Of Town</description>
+            <media:content
+                url="https://s.oneroof.co.nz/image/eb/b9/ebb9d47ae879dc34e02d974c304392cb.jpg?x-oss-process=image/quality,q_80/resize,w_500"
+                type="image/jpeg" />
+        </item>
+        <item>
+            <title>1 Tyburn Lane, Unsworth Heights, North Shore City</title>
+            <link>https://www.oneroof.co.nz/property/auckland/unsworth-heights/1-tyburn-lane/ydO00</link>
+            <description>Home is Here</description>
+            <media:content
+                url="https://s.oneroof.co.nz/image/47/82/47821241a6de8a8d47af377e2ff9dd99.jpg?x-oss-process=image/quality,q_80/resize,w_500"
+                type="image/jpeg" />
+        </item>
+        <item>
+            <title>3 Coroglen Avenue, Birkenhead, North Shore City</title>
+            <link>https://www.oneroof.co.nz/property/auckland/birkenhead/3-coroglen-avenue/NG1xN</link>
+            <description>Architectural Resort Style Paradise</description>
+            <media:content
+                url="https://s.oneroof.co.nz/image/c9/6b/c96b6c393507bc05a3e40065815ba63c.jpg?x-oss-process=image/quality,q_80/resize,w_500"
+                type="image/jpeg" />
+        </item>
+        <item>
+            <title>3 Coroglen Avenue, Birkenhead, North Shore City</title>
+            <link>https://www.oneroof.co.nz/property/auckland/birkenhead/3-coroglen-avenue/V9SLV</link>
+            <description>THE DEAL</description>
+            <media:content
+                url="https://s.oneroof.co.nz/image/98/9e/989efbcc8758b20000a02787d32c5e85.jpg?x-oss-process=image/quality,q_80/resize,w_500"
+                type="image/jpeg" />
+        </item>
+        <item>
+            <title>1/3 Lush Avenue, Saint Johns, Auckland City</title>
+            <link>https://www.oneroof.co.nz/property/auckland/saint-johns/1-3-lush-avenue/uqnU3</link>
+            <description>Makes All the Difference - Loaded with Extras</description>
+            <media:content
+                url="https://s.oneroof.co.nz/image/c9/21/c921cb5db7d380a03a36278e47be611c.jpg?x-oss-process=image/quality,q_80/resize,w_500"
+                type="image/jpeg" />
+        </item>
+        <item>
+            <title>73 Mead Street, Avondale, Auckland City</title>
+            <link>https://www.oneroof.co.nz/property/auckland/avondale/73-mead-street/Eqs1Z</link>
+            <description>A Home to Fall in Love With</description>
+            <media:content
+                url="https://s.oneroof.co.nz/image/1b/48/1b48b254cbd50d1716a2ece98d6bac24.jpg?x-oss-process=image/quality,q_80/resize,w_500"
+                type="image/jpeg" />
+        </item>
+        <item>
+            <title>42 Old Mill Road, Grey Lynn, Auckland City</title>
+            <link>https://www.oneroof.co.nz/property/auckland/grey-lynn/42-old-mill-road/QQecq</link>
+            <description>Character, Modern Charm & Spectacular Outlook</description>
+            <media:content
+                url="https://s.oneroof.co.nz/image/65/7c/657cb570d88492604b17e5ef01f1d2d5.jpg?x-oss-process=image/quality,q_80/resize,w_500"
+                type="image/jpeg" />
+        </item>
+        <item>
+            <title>20 Te Kowhai Place, Remuera, Auckland City</title>
+            <link>https://www.oneroof.co.nz/property/auckland/remuera/20-te-kowhai-place/5Oqyv</link>
+            <description>Sun, Sea Views and DGZ Position</description>
+            <media:content
+                url="https://s.oneroof.co.nz/image/c5/1d/c51d2c079074c9cec077ff539ab1a331.jpg?x-oss-process=image/quality,q_80/resize,w_500"
+                type="image/jpeg" />
+        </item>
+        <item>
+            <title>22 Gaye Crescent, Ōtara, Manukau City</title>
+            <link>https://www.oneroof.co.nz/property/auckland/otara/22-gaye-crescent/s0HUw</link>
+            <description>Land, Location & Lifestyle</description>
+            <media:content
+                url="https://s.oneroof.co.nz/image/a6/14/a614125637cb70f22251ba9ec65a116b.jpg?x-oss-process=image/quality,q_80/resize,w_500"
+                type="image/jpeg" />
+        </item>
+        <item>
+            <title>85 Vintage Lane, Waiheke Island, Waiheke Island</title>
+            <link>https://www.oneroof.co.nz/property/auckland/waiheke-island/85-vintage-lane/w9iU0</link>
+            <description>A world of your own</description>
+            <media:content
+                url="https://s.oneroof.co.nz/image/5a/36/5a3672cc8a02afd0ef8083aabad4763c.jpg?x-oss-process=image/quality,q_80/resize,w_500"
+                type="image/jpeg" />
+        </item>
+        <item>
+            <title>48 Christian Road, Swanson, Waitakere City</title>
+            <link>https://www.oneroof.co.nz/property/auckland/swanson/48-christian-road/9MTn4</link>
+            <description>3 Quality Homes 225m2 Workshop on Idyllic 5.8acres</description>
+            <media:content
+                url="https://s.oneroof.co.nz/image/31/a3/31a326f042129cb6f3f3cbe6017e0eab.jpg?x-oss-process=image/quality,q_80/resize,w_500"
+                type="image/jpeg" />
+        </item>
+        <item>
+            <title>23a Leicester Parade, Northpark, Manukau City</title>
+            <link>https://www.oneroof.co.nz/property/auckland/northpark/23a-leicester-parade/2Ytx4</link>
+            <description>Spacious Family Home in Northpark</description>
+            <media:content
+                url="https://s.oneroof.co.nz/image/8d/03/8d03502805d31cacdb95b5e28a6380b4.jpg?x-oss-process=image/quality,q_80/resize,w_500"
+                type="image/jpeg" />
+        </item>
+        <item>
+            <title>14 Hill Crescent, Papakura, Papakura</title>
+            <link>https://www.oneroof.co.nz/property/auckland/papakura/14-hill-crescent/UrQ4v</link>
+            <description>Quintessential Kiwi Classic on 1067m2</description>
+            <media:content
+                url="https://s.oneroof.co.nz/image/5b/44/5b445481ce661b3fe739bf442cc19362.jpg?x-oss-process=image/quality,q_80/resize,w_500"
+                type="image/jpeg" />
+        </item>
+        <item>
+            <title>25 Tyburnia Avenue, Mount Albert, Auckland City</title>
+            <link>https://www.oneroof.co.nz/property/auckland/mount-albert/25-tyburnia-avenue/qUsHi</link>
+            <description>Prime Development Opportunity in Mt Albert</description>
+            <media:content
+                url="https://s.oneroof.co.nz/image/3d/fd/3dfd6407c978cf85dc2b339ed5de8866.jpg?x-oss-process=image/quality,q_80/resize,w_500"
+                type="image/jpeg" />
+        </item>
+        <item>
+            <title>25 Haig Avenue, Mount Roskill, Auckland City</title>
+            <link>https://www.oneroof.co.nz/property/auckland/mount-roskill/25-haig-avenue/dWU1v</link>
+            <description>The Perfect Package</description>
+            <media:content
+                url="https://s.oneroof.co.nz/image/5e/4e/5e4ef4613b9e944d03cdcf0de56e9636.jpg?x-oss-process=image/quality,q_80/resize,w_500"
+                type="image/jpeg" />
+        </item>
+        <item>
+            <title>2584 & 0 River Road, Tuakau, Franklin</title>
+            <link>https://www.oneroof.co.nz/property/auckland/tuakau/2584-0-river-road/3Ajwm</link>
+            <description>But wait there's more</description>
+            <media:content
+                url="https://s.oneroof.co.nz/image/53/cb/53cb2a452276a3eef5fdf508032d6723.jpg?x-oss-process=image/quality,q_80/resize,w_500"
+                type="image/jpeg" />
+        </item>
+        <item>
+            <title>11 Panorama Road, Mount Wellington, Auckland City</title>
+            <link>
+                https://www.oneroof.co.nz/property/auckland/mount-wellington/11-panorama-road/dTll6</link>
+            <description>Central Modern Living</description>
+            <media:content
+                url="https://s.oneroof.co.nz/image/b7/d3/b7d3255863d3e24fdf68317a5c55f5ff.jpg?x-oss-process=image/quality,q_80/resize,w_500"
+                type="image/jpeg" />
+        </item>
+        <item>
+            <title>1/252 Onewa Road, Northcote Point, North Shore City</title>
+            <link>https://www.oneroof.co.nz/property/auckland/northcote-point/1-252-onewa-road/oClI5</link>
+            <description>RENOVATED BUNGALOW WITH CITY VIEWS</description>
+            <media:content
+                url="https://s.oneroof.co.nz/image/d0/15/d0152cfaf94d7deb79a24aad53bde4c1.jpg?x-oss-process=image/quality,q_80/resize,w_500"
+                type="image/jpeg" />
+        </item>
+        <item>
+            <title>7 Ballarat Street, Ellerslie, Auckland City</title>
+            <link>https://www.oneroof.co.nz/property/auckland/ellerslie/7-ballarat-street/DiVya</link>
+            <description>Your Secret Garden</description>
+            <media:content
+                url="https://s.oneroof.co.nz/image/bb/29/bb293f39fd5125fda05c65fa780cb947.jpg?x-oss-process=image/quality,q_80/resize,w_500"
+                type="image/jpeg" />
+        </item>
+        <item>
+            <title>67 Moses Road, Kaukapakapa, Rodney</title>
+            <link>https://www.oneroof.co.nz/property/auckland/kaukapakapa/67-moses-road/qrkOR</link>
+            <description>Elevate Your Lifestyle</description>
+            <media:content
+                url="https://s.oneroof.co.nz/image/36/87/36873da545ddc091210ea942e7e6a3c7.jpg?x-oss-process=image/quality,q_80/resize,w_500"
+                type="image/jpeg" />
+        </item>
+        <item>
+            <title>49 Hepburn Street, Freemans Bay, Auckland City</title>
+            <link>https://www.oneroof.co.nz/property/auckland/freemans-bay/49-hepburn-street/UzoXF</link>
+            <description>Urban Oasis with Timeless Charm</description>
+            <media:content
+                url="https://s.oneroof.co.nz/image/72/d9/72d9708c742f899a49f64e1e5ade0631.jpg?x-oss-process=image/quality,q_80/resize,w_500"
+                type="image/jpeg" />
+        </item>
+        <item>
+            <title>48 O'Neill Street, Ponsonby, Auckland City</title>
+            <link>https://www.oneroof.co.nz/property/auckland/ponsonby/48-oneill-street/zJegt</link>
+            <description>Big Land For All Your Plans</description>
+            <media:content
+                url="https://s.oneroof.co.nz/image/21/01/2101445bda59093508558b17296b594d.jpg?x-oss-process=image/quality,q_80/resize,w_500"
+                type="image/jpeg" />
+        </item>
+        <item>
+            <title>26 Baildon Road, Grey Lynn, Auckland City</title>
+            <link>https://www.oneroof.co.nz/property/auckland/grey-lynn/26-baildon-road/h4Awa</link>
+            <description>Family living at its finest</description>
+            <media:content
+                url="https://s.oneroof.co.nz/image/2a/48/2a483be4cec48c91cd7a1ac4e143a704.jpg?x-oss-process=image/quality,q_80/resize,w_500"
+                type="image/jpeg" />
+        </item>
+        <item>
+            <title>1L/238 Karangahape Road, Auckland Central, Auckland City</title>
+            <link>
+                https://www.oneroof.co.nz/property/auckland/auckland-central/1l-238-karangahape-road/xS1Qj</link>
+            <description>Redefining Inner-City Living</description>
+            <media:content
+                url="https://s.oneroof.co.nz/image/bd/42/bd4272dfdb0016dac305d6ad76ebe0a1.jpg?x-oss-process=image/quality,q_80/resize,w_500"
+                type="image/jpeg" />
+        </item>
+        <item>
+            <title>16 Ribblesdale Road, Henderson, Waitakere City</title>
+            <link>https://www.oneroof.co.nz/property/auckland/henderson/16-ribblesdale-road/Br0zZ</link>
+            <description>A Retreat in the Heart of Henderson</description>
+            <media:content
+                url="https://s.oneroof.co.nz/image/61/7c/617cc6d894638ca21e0cbec479844684.jpg?x-oss-process=image/quality,q_80/resize,w_500"
+                type="image/jpeg" />
+        </item>
+        <item>
+            <title>1/7A Seaside Avenue, Waterview, Auckland City</title>
+            <link>https://www.oneroof.co.nz/property/auckland/waterview/1-7a-seaside-avenue/Tm38n</link>
+            <description>Serenity on Seaside</description>
+            <media:content
+                url="https://s.oneroof.co.nz/image/b3/d8/b3d8990e9d0e2fa989a45b9c4d9103d4.jpg?x-oss-process=image/quality,q_80/resize,w_500"
+                type="image/jpeg" />
+        </item>
+        <item>
+            <title>22 Admirals Court Drive, Greenhithe, North Shore City</title>
+            <link>
+                https://www.oneroof.co.nz/property/auckland/greenhithe/22-admirals-court-drive/U3rmr</link>
+            <description>Your Ideal Family Home in a Serene Setting</description>
+            <media:content
+                url="https://s.oneroof.co.nz/image/88/6a/886a5620587cfb9686f358389a0d5f11.jpg?x-oss-process=image/quality,q_80/resize,w_500"
+                type="image/jpeg" />
+        </item>
+        <item>
+            <title>117 Mokoia Road, Birkenhead, North Shore City</title>
+            <link>https://www.oneroof.co.nz/property/auckland/birkenhead/117-mokoia-road/DKb9u</link>
+            <description>Timeless Charm That Has It All</description>
+            <media:content
+                url="https://s.oneroof.co.nz/image/73/2c/732c55b238e1cf9f82973fa2f7f1518f.jpg?x-oss-process=image/quality,q_80/resize,w_500"
+                type="image/jpeg" />
+        </item>
+        <item>
+            <title>63 Pacific Heights Road, Orewa, Rodney</title>
+            <link>https://www.oneroof.co.nz/property/auckland/orewa/63-pacific-heights-road/jdFqQ</link>
+            <description>The Kiwi Dream-Coastal Lifestyle with Views</description>
+            <media:content
+                url="https://s.oneroof.co.nz/image/c2/79/c27952882308f973925252d0216bf660.jpg?x-oss-process=image/quality,q_80/resize,w_500"
+                type="image/jpeg" />
+        </item>
+        <item>
+            <title>1/9 Malte Brun Place, Papatoetoe, Manukau City</title>
+            <link>https://www.oneroof.co.nz/property/auckland/papatoetoe/1-9-malte-brun-place/mnWvo</link>
+            <description>#THEDAY - Perfect for First Timers or Investors!</description>
+            <media:content
+                url="https://s.oneroof.co.nz/image/1d/98/1d985e0a2412dcc508d94f5b64edc166.jpg?x-oss-process=image/quality,q_80/resize,w_500"
+                type="image/jpeg" />
+        </item>
+        <item>
+            <title>2/9 Malte Brun Place, Papatoetoe, Manukau City</title>
+            <link>https://www.oneroof.co.nz/property/auckland/papatoetoe/2-9-malte-brun-place/Yluos</link>
+            <description>#THEDAY Perfect Home, Perfect Place</description>
+            <media:content
+                url="https://s.oneroof.co.nz/image/42/fa/42faffbe1fc962681beb5294ef325ab9.jpg?x-oss-process=image/quality,q_80/resize,w_500"
+                type="image/jpeg" />
+        </item>
+        <item>
+            <title>10/5 Bourne Street, Mount Eden, Auckland City</title>
+            <link>https://www.oneroof.co.nz/property/auckland/mount-eden/10-5-bourne-street/N7j2A</link>
+            <description>Incredible Entry-Level - Views Galore!</description>
+            <media:content
+                url="https://s.oneroof.co.nz/image/8f/15/8f1581ebbc62b74e4ea70ab86766d365.jpg?x-oss-process=image/quality,q_80/resize,w_500"
+                type="image/jpeg" />
+        </item>
+        <item>
+            <title>39 Cooper Street, Grey Lynn, Auckland City</title>
+            <link>https://www.oneroof.co.nz/property/auckland/grey-lynn/39-cooper-street/vHUTg</link>
+            <description>The Exquisite Cottage</description>
+            <media:content
+                url="https://s.oneroof.co.nz/image/f4/2d/f42d4c9fee8af18a139262d33e90da76.jpg?x-oss-process=image/quality,q_80/resize,w_500"
+                type="image/jpeg" />
+        </item>
+        <item>
+            <title>1 Caughey Place, Mount Albert, Auckland City</title>
+            <link>https://www.oneroof.co.nz/property/auckland/mount-albert/1-caughey-place/76XPC</link>
+            <description>Absolute Sweetheart in Gladstone Zone!</description>
+            <media:content
+                url="https://s.oneroof.co.nz/image/b5/ca/b5ca0be59329d5bd64ee1e4e4dd624a7.jpg?x-oss-process=image/quality,q_80/resize,w_500"
+                type="image/jpeg" />
+        </item>
+        <item>
+            <title>394 Sea View Road, Onetangi, Waiheke Island</title>
+            <link>https://www.oneroof.co.nz/property/auckland/onetangi/394-sea-view-road/wATWE</link>
+            <description>Onetangi magic</description>
+            <media:content
+                url="https://s.oneroof.co.nz/image/64/20/64205fa4e8883c2fbb649282411661c5.jpg?x-oss-process=image/quality,q_80/resize,w_500"
+                type="image/jpeg" />
+        </item>
+        <item>
+            <title>63 Clarence Street, Ponsonby, Auckland City</title>
+            <link>https://www.oneroof.co.nz/property/auckland/ponsonby/63-clarence-street/jtcgN</link>
+            <description>Your Dream Canvas in Ponsonby</description>
+            <media:content
+                url="https://s.oneroof.co.nz/image/cc/58/cc587eb068f47dd3be416ae512f52ca0.jpg?x-oss-process=image/quality,q_80/resize,w_500"
+                type="image/jpeg" />
+        </item>
+        <item>
+            <title>68 Clarence Street, Ponsonby, Auckland City</title>
+            <link>https://www.oneroof.co.nz/property/auckland/ponsonby/68-clarence-street/IW32y</link>
+            <description>Pure Ponsonby</description>
+            <media:content
+                url="https://s.oneroof.co.nz/image/cc/cf/cccf915f8cebf27371fa7939d4a9eacd.jpg?x-oss-process=image/quality,q_80/resize,w_500"
+                type="image/jpeg" />
+        </item>
+        <item>
+            <title>2B/89-91 Hendon Avenue, Mount Albert, Auckland City</title>
+            <link>
+                https://www.oneroof.co.nz/property/auckland/mount-albert/2b-89-91-hendon-avenue/YIhGK</link>
+            <description>Quality Not Quantity - Freehold Homes</description>
+            <media:content
+                url="https://s.oneroof.co.nz/image/a2/5c/a25c42c58aaf12c0898492167621f7a9.jpg?x-oss-process=image/quality,q_80/resize,w_500"
+                type="image/jpeg" />
+        </item>
+        <item>
+            <title>71 Francis Street, Grey Lynn, Auckland City</title>
+            <link>https://www.oneroof.co.nz/property/auckland/grey-lynn/71-francis-street/Dk6rN</link>
+            <description>Expand your horizons on 703m2</description>
+            <media:content
+                url="https://s.oneroof.co.nz/image/d8/26/d826cbd7376c28a45959fb93e8123a2b.jpg?x-oss-process=image/quality,q_80/resize,w_500"
+                type="image/jpeg" />
+        </item>
+        <item>
+            <title>12 Springfield Road, Morningside, Auckland City</title>
+            <link>https://www.oneroof.co.nz/property/auckland/morningside/12-springfield-road/3BZsh</link>
+            <description>Impressive at Every Turn</description>
+            <media:content
+                url="https://s.oneroof.co.nz/image/02/6b/026bfbbaf25255cc1895c651a3af09af.jpg?x-oss-process=image/quality,q_80/resize,w_500"
+                type="image/jpeg" />
+        </item>
+        <item>
+            <title>6/47 Jervois Road, Ponsonby, Auckland City</title>
+            <link>https://www.oneroof.co.nz/property/auckland/ponsonby/6-47-jervois-road/ZiHWG</link>
+            <description>Views, Space, Location</description>
+            <media:content
+                url="https://s.oneroof.co.nz/image/9b/62/9b62396026aea44447f1b0e5cf6f9638.jpg?x-oss-process=image/quality,q_80/resize,w_500"
+                type="image/jpeg" />
+        </item>
+        <item>
+            <title>1/65 Etherton Drive, Clendon Park, Manukau City</title>
+            <link>https://www.oneroof.co.nz/property/auckland/clendon-park/1-65-etherton-drive/PQPSD</link>
+            <description>Perfect Entry Level Buying!</description>
+            <media:content
+                url="https://s.oneroof.co.nz/image/a0/1e/a01e603528407d87eb4084f8028e5186.jpg?x-oss-process=image/quality,q_80/resize,w_500"
+                type="image/jpeg" />
+        </item>
+        <item>
+            <title>4 Lloyd Avenue, Mount Albert, Auckland City</title>
+            <link>https://www.oneroof.co.nz/property/auckland/mount-albert/4-lloyd-avenue/3ugf5</link>
+            <description>Bungalow Bliss</description>
+            <media:content
+                url="https://s.oneroof.co.nz/image/97/70/977021dfbaf10f6828f26b1f904fc5c6.jpg?x-oss-process=image/quality,q_80/resize,w_500"
+                type="image/jpeg" />
+        </item>
+        <item>
+            <title>80 Ivanhoe Road, Grey Lynn, Auckland City</title>
+            <link>https://www.oneroof.co.nz/property/auckland/grey-lynn/80-ivanhoe-road/VImRp</link>
+            <description>Sun-Drenched Grey Lynn Starter</description>
+            <media:content
+                url="https://s.oneroof.co.nz/image/13/04/1304288e58ffb386e30de61c6ff37f61.jpg?x-oss-process=image/quality,q_80/resize,w_500"
+                type="image/jpeg" />
+        </item>
+        <item>
+            <title>5 Howden Lane, Howick, Manukau City</title>
+            <link>https://www.oneroof.co.nz/property/auckland/howick/5-howden-lane/Wk41c</link>
+            <description>Ideal Single Level Living on Freehold 205m2</description>
+            <media:content
+                url="https://s.oneroof.co.nz/image/43/ae/43ae834af630f6e8bc17b7bbe6c1ddf3.jpg?x-oss-process=image/quality,q_80/resize,w_500"
+                type="image/jpeg" />
+        </item>
+        <item>
+            <title>8 Colenso Place, Mission Bay, Auckland City</title>
+            <link>https://www.oneroof.co.nz/property/auckland/mission-bay/8-colenso-place/dH3KG</link>
+            <description>Titirangi In Mission Bay On 997sqm</description>
+            <media:content
+                url="https://s.oneroof.co.nz/image/28/00/280067fab52103212d42cc4e90647a5c.jpg?x-oss-process=image/quality,q_80/resize,w_500"
+                type="image/jpeg" />
+        </item>
+        <item>
+            <title>1/59 Richardson Road, Mount Albert, Auckland City</title>
+            <link>
+                https://www.oneroof.co.nz/property/auckland/mount-albert/1-59-richardson-road/zaghR</link>
+            <description>Exceptional Quality, Outstanding Value</description>
+            <media:content
+                url="https://s.oneroof.co.nz/image/50/6d/506d82cde16ada19ec129c7d721cc960.jpg?x-oss-process=image/quality,q_80/resize,w_500"
+                type="image/jpeg" />
+        </item>
+        <item>
+            <title>4/59 Richardson Road, Mount Albert, Auckland City</title>
+            <link>
+                https://www.oneroof.co.nz/property/auckland/mount-albert/4-59-richardson-road/W4NMx</link>
+            <description>Exceptional Quality, Outstanding Value</description>
+            <media:content
+                url="https://s.oneroof.co.nz/image/63/43/63431c51d978faf7ddde1e40fa416cf5.jpg?x-oss-process=image/quality,q_80/resize,w_500"
+                type="image/jpeg" />
+        </item>
+        <item>
+            <title>6/59 Richardson Road, Mount Albert, Auckland City</title>
+            <link>
+                https://www.oneroof.co.nz/property/auckland/mount-albert/6-59-richardson-road/iGlxE</link>
+            <description>Exceptional Quality, Outstanding Value</description>
+            <media:content
+                url="https://s.oneroof.co.nz/image/31/a2/31a2e17ce284c8670eccda97ec0005c7.jpg?x-oss-process=image/quality,q_80/resize,w_500"
+                type="image/jpeg" />
+        </item>
+    </channel>
 </rss>
