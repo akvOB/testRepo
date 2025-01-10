@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>OneRoof</title>
+    <link>https://www.oneroof.co.nz</link>
+    <description>Featured Properties</description>
+    <item>
+      <title>210 Clarks Beach Road, Waiau Pa, Franklin</title>
+      <link>https://www.oneroof.co.nz/property/auckland/waiau-pa/210-clarks-beach-road/06j5w</link>
+      <description>PRICE SLASHED - " WE NEED TO SELL"</description>
+      <media:content url="https://s.oneroof.co.nz/image/7d/08/7d08ed6c43b086537150eddb5e683e22.jpg?x-oss-process=image/quality,q_80/resize,w_500" type="image/jpeg" />
+    </item>
+    <item>
+      <title>127A Swanson Road, Henderson, Waitakere City</title>
+      <link>https://www.oneroof.co.nz/property/auckland/henderson/127a-swanson-road/PmXi7</link>
+      <description>Over Half a Million dollars below CV. Wow!!</description>
+      <media:content url="https://s.oneroof.co.nz/image/2f/bb/2fbb83e9dd5feb43cdb8b6133e721728.jpg?x-oss-process=image/quality,q_80/resize,w_500" type="image/jpeg" />
+    </item>
+    <item>
+      <title>56 San Valentino Drive, Henderson, Waitakere City</title>
+      <link>https://www.oneroof.co.nz/property/auckland/henderson/56-san-valentino-drive/G8OM0</link>
+      <description>Guaranteed Rental Income in Top Area</description>
+      <media:content url="https://s.oneroof.co.nz/image/ec/c4/ecc49e608c245c6d9fc94b1021c6e62d.jpg?x-oss-process=image/quality,q_80/resize,w_500" type="image/jpeg" />
+    </item>
+    <item>
+      <title>79 Three Oaks Drive, Dairy Flat, Rodney</title>
+      <link>https://www.oneroof.co.nz/property/auckland/dairy-flat/79-three-oaks-drive/Hp4yF</link>
+      <description>All Quiet in the Country!</description>
+      <media:content url="https://s.oneroof.co.nz/image/29/a9/29a9d73199444171480099ca9b8bfc48.jpg?x-oss-process=image/quality,q_80/resize,w_500" type="image/jpeg" />
+    </item>
+    <item>
+      <title>15A Kitirawa Road, Remuera, Auckland City</title>
+      <link>https://www.oneroof.co.nz/property/auckland/remuera/15a-kitirawa-road/JGP7A</link>
+      <description>Immaculately Presented Family Home in Prime Location</description>
+      <media:content url="https://s.oneroof.co.nz/image/75/3e/753ec119c928cf9d520c46bfd7f6e0a1.jpg?x-oss-process=image/quality,q_80/resize,w_500" type="image/jpeg" />
+    </item>
+    <item>
+      <title>11 Chatfield Place, Remuera, Auckland City</title>
+      <link>https://www.oneroof.co.nz/property/auckland/remuera/11-chatfield-place/5cMC6</link>
+      <description>ELEVATE YOUR LIFESTYLE - PANORAMIC VIEWS!</description>
+      <media:content url="https://s.oneroof.co.nz/image/54/ae/54aed51b3dadb1715b3ba1c9d2f31af7.jpg?x-oss-process=image/quality,q_80/resize,w_500" type="image/jpeg" />
+    </item>
+    <item>
+      <title>35/22 Northcross Drive, Oteha, North Shore City</title>
+      <link>https://www.oneroof.co.nz/property/auckland/oteha/35-22-northcross-drive/xIDNh</link>
+      <description>Safe, Secure &amp; Sought After - Rangi Zone</description>
+      <media:content url="https://s.oneroof.co.nz/image/76/65/766521899effe3034ed813ad4fea7209.jpg?x-oss-process=image/quality,q_80/resize,w_500" type="image/jpeg" />
+    </item>
+  </channel>
+</rss>
