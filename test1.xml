@@ -333,5 +333,23 @@
 <description>Bring your builder!</description>
 <media:content url="https://s.oneroof.co.nz/image/d5/d6/d5d615096b6e2e05fe007c67cf7c63c0.jpg?x-oss-process=image/quality,q_80/resize,w_500" type="image/jpeg"/>
 </item>
+  <item>
+      <title>New addition 1</title>
+      <link>https://www.oneroof.co.nz/property/auckland/remuera/15a-kitirawa-road/JGP7A</link>
+      <description>Immaculately Presented Family Home in Prime Location</description>
+      <media:content url="https://s.oneroof.co.nz/image/75/3e/753ec119c928cf9d520c46bfd7f6e0a1.jpg?x-oss-process=image/quality,q_80/resize,w_500" type="image/jpeg" />
+    </item>
+    <item>
+      <title>1New addition 2</title>
+      <link>https://www.oneroof.co.nz/property/auckland/remuera/11-chatfield-place/5cMC6</link>
+      <description>ELEVATE YOUR LIFESTYLE - PANORAMIC VIEWS!</description>
+      <media:content url="https://s.oneroof.co.nz/image/54/ae/54aed51b3dadb1715b3ba1c9d2f31af7.jpg?x-oss-process=image/quality,q_80/resize,w_500" type="image/jpeg" />
+    </item>
+    <item>
+      <title>New addition 3</title>
+      <link>https://www.oneroof.co.nz/property/auckland/oteha/35-22-northcross-drive/xIDNh</link>
+      <description>Safe, Secure &amp; Sought After - Rangi Zone</description>
+      <media:content url="https://s.oneroof.co.nz/image/76/65/766521899effe3034ed813ad4fea7209.jpg?x-oss-process=image/quality,q_80/resize,w_500" type="image/jpeg" />
+    </item>
 </channel>
 </rss>
